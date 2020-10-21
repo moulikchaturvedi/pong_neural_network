@@ -1,4 +1,4 @@
-# pong_neural_network
+# Pong Neural Network
 This repository contains the code for the game of PONG which was built from scratch and a neural network that learns to play the game and gets better overtime, with experience, on its own.
 
 # LIBRARIES USED
